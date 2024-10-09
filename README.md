@@ -1,0 +1,3 @@
+- Front-end framework: nextJs
+- Back-end framework for http: nestjs
+- Back-end for ws: C/C++
